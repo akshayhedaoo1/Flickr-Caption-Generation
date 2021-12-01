@@ -13,3 +13,4 @@ Steps :
 6. Model is a combination of Encoder and Decoder which takes combination of X and Y_in as input and Y_out as output.
 7. It is trained on 100 epochs with accuracy of 84% .
 8. It gives good prediction as shown below:
+![download](https://user-images.githubusercontent.com/84308415/144239934-131f6b22-a281-447d-a06c-9d118ebc1af6.png)

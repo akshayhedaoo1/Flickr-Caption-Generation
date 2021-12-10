@@ -9,4 +9,8 @@ It is trained on 100 epochs with accuracy of 84%.
 
 
 
-![download](https://user-images.githubusercontent.com/84308415/144239934-131f6b22-a281-447d-a06c-9d118ebc1af6.png)
+
+
+https://user-images.githubusercontent.com/84308415/145565522-bb5ec523-dab5-4954-9c8d-061eae897911.mp4
+
+

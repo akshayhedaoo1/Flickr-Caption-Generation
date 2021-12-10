@@ -8,4 +8,4 @@ Jinja2==3.0.1
 MarkupSafe==2.0.1
 Werkzeug==2.0.2
 click==7.1.2
-python==3.9.5
+
